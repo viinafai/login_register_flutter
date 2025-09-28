@@ -12,6 +12,6 @@ pengguna, navigasi antar halaman, dan cara menyimpan data untuk sementara waktu 
 dalam variabel.
 
 - Wireframe Halaman Login
-![Login_Register_Flutter](dokumentasi/page 1.PNG)
+    ![Laporan 1](dokumentasi/page 1.png)
 
 - Wireframe Halaman Registrasi
